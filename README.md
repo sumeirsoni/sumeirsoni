@@ -45,6 +45,9 @@
 <!-- AI & APIs -->
 [![OpenAI](https://img.shields.io/badge/-OpenAI-74aa9c?&logo=openai&logoColor=white)](https://openai.com/api/)
 
+
+![](https://komarev.com/ghpvc/?username=sumeirsoni)
+
 <!--
 ## Github Stats
 ![](https://github-stats-cyan-xi.vercel.app/api/top-langs/?username=smearsoni&size_weight=0.5&count_weight=0.5&theme=dark&layout=compact)
